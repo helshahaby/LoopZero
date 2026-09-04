@@ -1,4 +1,4 @@
-# LoopZero — AgentCofounder Harness (Contracts Track)
+# LoopZero — AgentCofounder Harness (Starter Repo Track)
 
 **Team LoopZero** — Hossam Elshahaby · Paul Grönborg · Ali Sina · Mohamed Akif · Shivam Gupta
 AgentCofounder Hackathon · Stockholm AI · Contracts Track
